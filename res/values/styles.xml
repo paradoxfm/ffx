@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<style name="main_theme" parent="Theme.AppCompat.Light.NoActionBar">
+		<!-- Main theme colors -->
+		<!--   your app branding color for the app bar -->
+		<!--<item name="android:colorPrimary">@color/title_color</item>-->
+		<item name="colorPrimary">@color/title_top_color</item>
+		<!--   darker variant for the status bar and contextual app bars -->
+		<item name="android:colorPrimaryDark">@color/title_top_color</item>
+		<item name="android:windowBackground">@color/win_back_color</item>
+		<item name="android:navigationBarColor">@color/button_bottom_color</item>
+		<!--<item name="android:statusBarColor">@android:color/transparent</item>-->
+		<item name="android:windowTranslucentStatus">true</item>
+		<item name="windowActionBarOverlay">true</item>
+		<item name="android:windowActionBarOverlay">true</item>
+		<item name="android:windowContentOverlay">@null</item>
+		<!--   theme UI controls like checkboxes and text fields -->
+		<!--<item name="android:colorAccent">@color/accent</item>-->
+		<!--<item name="android:actionBarStyle">@style/TranslucentActionBar</item>
+		<item name="actionBarStyle">@style/TranslucentActionBar</item>-->
+	</style>
+	<!--<style name="TranslucentActionBar" parent="@style/Widget.AppCompat.Light.ActionBar.Solid.Inverse">
+		<item name="android:background">@android:color/transparent</item>
+
+		&lt;!&ndash; Support library compatibility &ndash;&gt;
+		<item name="background">@android:color/transparent</item>
+	</style>-->
+</resources>
