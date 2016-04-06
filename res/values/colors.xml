@@ -8,4 +8,9 @@
 	<color name="left_list">#4d4d4d</color>
 	<color name="nav_left_color">#ededed</color>
 
+
+	<color name="list_item_color">#4d4d4d</color>
+	<color name="list_item_border">#606060</color>
+	<color name="list_item_icon">#f1f7ff</color>
+
 </resources>

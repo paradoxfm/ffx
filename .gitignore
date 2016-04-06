@@ -1,5 +1,5 @@
 /.idea
 /gen
 /target
-/*.iml
+/androidTemplate.iml
 /gen-external-apklibs
